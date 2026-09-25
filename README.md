@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # snippets
 
 Useful code snippets collected over time. Mostly for personal reference, but feel free to use them.
