@@ -20,3 +20,8 @@ Found a useful snippet? PRs are welcome!
 ## License
 
 MIT
+## FAQ
+
+**Q: Where does the config come from?**
+
+A: `config_loader.load_config()` merges JSON over defaults.
